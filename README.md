@@ -1,4 +1,3 @@
 # arduino_SPYFU
 
-demo video:
-https://youtu.be/rK1kuwzOS58
+Please use arduino_SPYFU_New .ino
