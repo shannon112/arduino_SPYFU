@@ -17,8 +17,6 @@
 #define BrushlessFPin 3   //forward BLDC motor ESC data pin
 #define BrushlessBPin  4  //backward BLDC motor ESC data pin
 #define myServoPin  5     //direction control servo motor data pin
-#define blueLED = 2;
-#define whiteLED = 6;
 
 ///////////////////////////////////////////////////////////////
 ////////// variable/////////////////
